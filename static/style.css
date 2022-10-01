@@ -1,0 +1,52 @@
+
+			.header{
+				padding: 5px 120px;
+				width: 160px;
+				height: 70px;
+				background-color: #66ff99;
+			}
+		
+			.border{
+				padding: 70px 60px;
+				width: 500px;
+				height: 600px;
+				border: 1px solid #e600e6;
+				border-radius: 0px;
+				background-image: url("images/bg.png");
+				background-color: #66ff99;
+			}
+
+			.btn {
+				padding: 10px 50px;
+				background-color: #ff0000;
+				color: #FFFFFF;
+				font-style: Fantasy;
+				font-weight: bold;
+				border-radius: 10px;
+			}
+
+			.textbox{
+				padding: 10px 50px;
+				background-color: #0000b3;
+				text-color: #d580ff;
+				border-radius: 10px;
+			}
+				
+			::placeholder {
+				color: #cccccc;
+				opacity: 1;
+				font-style: Fantasy;
+				font-weight: bold;
+			}
+
+			.word{
+				color: #ff4dff;
+				font-style: red Serif;
+				font-weight: bold;
+			}
+
+			.bottom{
+				color: #ff3300;
+				font-style: Sans-serif;
+				font-weight: bold;
+			}
